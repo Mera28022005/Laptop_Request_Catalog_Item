@@ -16,6 +16,6 @@ Team member : Prasheetha R
 
 Team Member : Sujitha K
 
-Servicenow Instance :https://developer.servicenow.com/dev.do
+Servicenow Instance : https://dev188618.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=T%2FbyZ%2489SfKx 
 
 Demo Video Link : https://drive.google.com/file/d/1Vwv_iGpsF2vGqpnU2jcH4OD8_TGP8YTR/view?usp=drivesdk 
