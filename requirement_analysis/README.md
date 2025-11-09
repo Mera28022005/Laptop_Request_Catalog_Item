@@ -4,7 +4,11 @@ This section covers the requirement analysis for the Laptop Request Catalog Item
 
  Data Flow Diagram (DFD)
 1. Understand how data moves through the system, from the user submitting a laptop request to approvals, fulfillment, and notifications.
-2. Identify key processes, data stores, and interactions.
+2. Identify key processes, data stores, and interactions:
+   - User submits a request via the ServiceNow catalog item  
+   - Request is sent to manager for approval  
+   - Approved requests are sent to IT for fulfillment  
+   - Notifications are sent to users at each stage  
 3. The data flow should ensure that requests are properly tracked, approvals are automated, and users are informed at every step.  
 
 Solution Requirements
